@@ -3,8 +3,13 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int a =6;
+
 	// write your code here
-	    String hello = "hello";
+
+    }
+
+    public void hello()
+    {
+        System.out.println("hello");
     }
 }
